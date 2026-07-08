@@ -152,12 +152,12 @@
   "title": "Dr. Osa Hidalgo de la Riva",
   "autogenerate": {
     "enabled": false,
-    "type": "home"
+    "type": "custom"
   },
   "slug": "dr-osa-hidalgo-de-la-riva",
   "created_at": "2026-07-08T19:05:25.647Z",
   "created_by": "afier",
-  "updated_at": "2026-07-08T19:39:59.942Z",
+  "updated_at": "2026-07-08T19:40:05.922Z",
   "updated_by": "afier",
   "parent": "4bcd3876-abf0-44e3-9959-c5e33d274829"
 }
