@@ -28,10 +28,10 @@
   "created_at": "2026-07-08T17:29:51.078Z",
   "created_by": "afier",
   "title": "Mujeres de la Riva",
-  "updated_at": "2026-07-08T19:33:28.626Z",
+  "updated_at": "2026-07-08T19:37:32.094Z",
   "updated_by": "afier",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "home"
   }
 }
