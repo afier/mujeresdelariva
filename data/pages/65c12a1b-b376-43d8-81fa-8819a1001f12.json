@@ -1,0 +1,23 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Footage: Part I",
+  "parent": "4bcd3876-abf0-44e3-9959-c5e33d274829",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "footage-part-i",
+  "created_at": "2026-07-08T22:46:54.907Z",
+  "created_by": "afier",
+  "updated_at": "2026-07-08T22:46:54.907Z",
+  "updated_by": "afier"
+}
