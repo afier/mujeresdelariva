@@ -1,5 +1,531 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 5,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, yeah, there they are. Lion Country Safari."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Lion Country Safari"
+        }
+      ],
+      "uuid": "42752407-fe8d-480a-8973-b970502b6bf9"
+    },
+    {
+      "start_time": 6,
+      "end_time": 18,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " I hope my brother Louis - we picked him up from Pendleton, Camp Pendleton.  I hope he doesn't do that thing (lewd gesture) that he was doing last time.  He's gonna do it right now when no one's looking anything."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Lion Country Safari"
+        }
+      ],
+      "uuid": "270602d3-358b-43b3-9522-08afc241ab73"
+    },
+    {
+      "start_time": 19,
+      "end_time": 23,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " But he's so silly.  I know he was having fun like the kids."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Lion Country Safari"
+        }
+      ],
+      "uuid": "2cfb2ff2-d553-4ba7-b0af-4ce82827c260"
+    },
+    {
+      "start_time": 24,
+      "end_time": 29,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " It looks like, yeah, Liz (Osa's sister).  There he goes.  I think it's gonna happen. Okay."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Lion Country Safari"
+        }
+      ],
+      "uuid": "5bf2a6bd-0c79-4591-bc21-07c85e3fe6ec"
+    },
+    {
+      "start_time": 30,
+      "end_time": 34,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Liz and Kathy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Lion Country Safari"
+        }
+      ],
+      "uuid": "e6443850-1846-4cd3-a857-785efd98f661"
+    },
+    {
+      "start_time": 35,
+      "end_time": 49,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " And the twins obviously have, I think, overalls on.  And the other little two kids, they were when my mom moved to LA, when she moved everyone from Stockton down there to LA."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Lion Country Safari"
+        }
+      ],
+      "uuid": "16e962f1-79ce-408d-9f20-fdff675cd5e6"
+    },
+    {
+      "start_time": 50,
+      "end_time": 58,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " She moved to Hawaiian Gardens at first.  And there was a homeboy and a homegirl that were the owners of it, the managers.  And those were their kids."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Lion Country Safari"
+        }
+      ],
+      "uuid": "4dc354ff-8401-48f7-83c2-383ced0fa325"
+    },
+    {
+      "start_time": 59,
+      "end_time": 68,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " We used to take them all over all the time.  They were all so  All the kids got along really well."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Lion Country Safari"
+        }
+      ],
+      "uuid": "b295af38-3d03-4401-a6b7-1dc35df089e9"
+    },
+    {
+      "start_time": 69,
+      "end_time": 76,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " And Louie and Liz, there they are.  They're always, Liz is always clowning around."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Lion Country Safari"
+        }
+      ],
+      "uuid": "242ea363-09e8-4720-88c5-186497643f00"
+    },
+    {
+      "start_time": 77,
+      "end_time": 83,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " I'm surprised."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Lion Country Safari"
+        }
+      ],
+      "uuid": "4230e825-bcd4-4627-86df-4aca1c4741e1"
+    },
+    {
+      "start_time": 84,
+      "end_time": 95,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Those are geese, I think, or unless I'm wrong. They're swans or what are they?  I forget what they're called."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Lion Country Safari"
+        }
+      ],
+      "uuid": "4db5a0e9-0715-45cc-b3dd-0420027269fa"
+    },
+    {
+      "start_time": 96,
+      "end_time": 110,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " But they could be protectors too.  I've heard that, that they're good like guard animals."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Lion Country Safari"
+        }
+      ],
+      "uuid": "0eebc4db-0424-471a-9b0c-3ca6c8fd6e99"
+    },
+    {
+      "start_time": 111,
+      "end_time": 113,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Aw. Hi little ones."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Lion Country Safari"
+        }
+      ],
+      "uuid": "6e0ecd06-cc84-4ec0-be40-bd267c6a847b"
+    },
+    {
+      "start_time": 114,
+      "end_time": 122,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Osa Bear stop having everyone say hi all the time. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Lion Country Safari"
+        }
+      ],
+      "uuid": "6f9b82c1-3e7c-4c75-9871-355a1a486a91"
+    },
+    {
+      "start_time": 123,
+      "end_time": 130,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Oh, yeah.  Louie's gonna show off."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Lion Country Safari"
+        }
+      ],
+      "uuid": "b970e9f5-f029-4158-a888-1157f83636ca"
+    },
+    {
+      "start_time": 131,
+      "end_time": 139,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " He's slap boxing the poor swan. Aw.  He didn't really hit him, he's just playing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Lion Country Safari"
+        }
+      ],
+      "uuid": "502d7721-2ef7-4e93-9c66-8dec56a52dfc"
+    },
+    {
+      "start_time": 140,
+      "end_time": 150,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " There he goes, I think he's"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Lion Country Safari"
+        }
+      ],
+      "uuid": "78c6bd1e-8fb8-4821-a8c4-627786826462"
+    },
+    {
+      "start_time": 151,
+      "end_time": 164,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Laura, Lily. Isn't that funny? I was like, thinking it was Lily (Laura's daughter). It's Laura. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Lion Country Safari"
+        }
+      ],
+      "uuid": "cab730d0-22f0-4066-9866-ffbd93f23497"
+    },
+    {
+      "start_time": 165,
+      "end_time": 168,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Lion Country Safari"
+        }
+      ],
+      "uuid": "27f27c6b-febb-4fcd-941f-d0ae4807ce42"
+    },
+    {
+      "start_time": 169,
+      "end_time": 172,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " We know what's coming up."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Lion Country Safari"
+        }
+      ],
+      "uuid": "aa03694e-f3ca-4c49-bf88-5cf2abedf2e6"
+    },
+    {
+      "start_time": 173,
+      "end_time": 188,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Aw. I'm surprised I didn't tell him to say hi. Say hi to the camera. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Lion Country Safari"
+        }
+      ],
+      "uuid": "3eccc6ab-8e35-4aa9-8733-b359f93d72cc"
+    },
+    {
+      "start_time": 189,
+      "end_time": 198,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Timmy's (Osa's brother) so cute."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Lion Country Safari"
+        }
+      ],
+      "uuid": "4894afa0-ec0d-4751-805a-b8b3a070d64b"
+    },
+    {
+      "start_time": 199,
+      "end_time": 207,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Oh okay, nice. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Hoover Dam"
+        }
+      ],
+      "uuid": "0088545d-d109-45f7-9179-0b13792e1eec"
+    },
+    {
+      "start_time": 208,
+      "end_time": 212,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " I wonder if that was in Arizona now."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Hoover Dam"
+        }
+      ],
+      "uuid": "e84f7d9c-2a1e-4006-b179-e9d497e1d7f7"
+    },
+    {
+      "start_time": 213,
+      "end_time": 209,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " What does it say? Nevada. Okay."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Hoover Dam"
+        }
+      ],
+      "uuid": "e0c545e9-f2cf-497f-803a-a98a5f95d205"
+    }
+  ],
   "set": "Footage III",
   "event_id": "f2ecfb7e-bf6f-4fad-87a9-113964f37b9f",
   "source_id": "75946064-1195-46ef-95f0-223aafde8977"
