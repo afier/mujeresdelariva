@@ -1,0 +1,33 @@
+{
+  "audiovisual_files": {
+    "8aec993b-1340-4f2e-89c7-8a7b36a8c6cc": {
+      "label": "Footage III",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://youtu.be/A5G3PWWvafM",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "Footage III",
+  "av_file_order": [
+    "8aec993b-1340-4f2e-89c7-8a7b36a8c6cc"
+  ],
+  "created_at": "2026-08-30T17:46:22.880Z",
+  "created_by": "afier",
+  "updated_at": "2026-08-30T17:46:22.880Z",
+  "updated_by": "afier"
+}
