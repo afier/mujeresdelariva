@@ -1,0 +1,124 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        4,
+        2
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "This project draws from a rich collection of materials in the Osa Hidalgo de la Riva collection housed in the Chicana por mi Raza Digital Memory Collective (CPMR) online archive. Established in 2009, CPMR is a group of historians, educators, students, researchers, archivists and technologists dedicated to preserving and disseminating imperiled Chicanx and Latinx histories of the long Civil Rights Era. The project reimagines the archive as a space of intergenerational "
+                },
+                {
+                  "text": "encuentro",
+                  "italic": true
+                },
+                {
+                  "text": ". CPMR intervenes in the absences in institutional archives through its non-custodial community model, in which oral history interviews and archival scanning are done on site. The collective prioritizes archives as a "
+                },
+                {
+                  "text": "relationship ",
+                  "italic": true
+                },
+                {
+                  "text": "that facilitates inter-generational knowledge building. "
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "In 2023, CPMR collaborated with Royal Eagle Bear Productions, Dr. Hidalgo de la Riva’s production company. Through a two week research intensive in partnership with UC Santa Cruz, students worked as part of the collective to digitize Dr. Hidalgo de la Riva's materials, including photographs, artwork, poetry, and documents. Since that time, the CPMR project has continued to digitize materials from the mujeres de la Riva archive, including a substantial collection of photographs and documents from Osa Hidalgo de la Riva’s aunt, educator Celia de la Riva Rubio. Most recently, the CPMR project has partnered with AVAnnotate to digitize and curate a collection of home movies documenting the mujeres de la Riva from the 1960s to the 1980s."
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\n\n"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Archival Collection",
+  "parent": "4bcd3876-abf0-44e3-9959-c5e33d274829",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "archival-collection",
+  "created_at": "2026-11-15T19:05:07.763Z",
+  "created_by": "afier",
+  "updated_at": "2026-11-15T19:05:07.763Z",
+  "updated_by": "afier"
+}
