@@ -211,7 +211,53 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "Her films have been screened at additional transcultural venues such as the Dreamspeakers Indigenous International Film Festival in Canada, the Whitney Museum in New York, and more recently, at CUÓRUM in Morelia, México. In 2007, her animation artwork “Las Olmecas” was included in 500 years of Chicana Women’s History, edited by Elizabeth “Betita” Martinez. "
+                  "text": "",
+                  "italic": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        4,
+        2
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Her films have been screened at additional transcultural venues such as the Dreamspeakers Indigenous International Film Festival in Canada, the Whitney Museum in New York, and more recently, at CUÓRUM in Morelia, México. In 2007, her animation artwork “Las Olmecas” was included in "
+                },
+                {
+                  "text": "500 years of Chicana Women’s History",
+                  "italic": true
+                },
+                {
+                  "text": ", edited by Elizabeth “Betita” Martinez. "
                 }
               ]
             },
@@ -251,7 +297,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "\n"
+                  "text": ""
                 }
               ]
             },
@@ -259,7 +305,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "\n"
+                  "text": ""
                 }
               ]
             },
@@ -267,8 +313,40 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "Written in collaboration by Erendina Delgadillo, Analia Fierro, and Dr. Osa Hidalgo de la Riva",
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Written in collaboratrion by Erendina Delgadillo, Analia Fierro, and Dr. Osa Hidalgo de la Riva",
                   "italic": true
+                },
+                {
+                  "text": "\n"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
                 }
               ]
             }
@@ -280,7 +358,15 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\n\n"
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
         }
       ]
     }
@@ -293,7 +379,7 @@
   "slug": "dr-osa-hidalgo-de-la-riva",
   "created_at": "2026-07-08T19:05:25.647Z",
   "created_by": "afier",
-  "updated_at": "2026-11-15T19:42:55.067Z",
+  "updated_at": "2026-11-15T19:48:45.867Z",
   "updated_by": "afier",
   "parent": "4bcd3876-abf0-44e3-9959-c5e33d274829"
 }
