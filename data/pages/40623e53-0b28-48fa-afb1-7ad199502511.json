@@ -54,6 +54,14 @@
                   "text": "\n"
                 }
               ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
             }
           ]
         },
@@ -285,7 +293,7 @@
   "slug": "dr-osa-hidalgo-de-la-riva",
   "created_at": "2026-07-08T19:05:25.647Z",
   "created_by": "afier",
-  "updated_at": "2026-11-15T19:13:47.013Z",
+  "updated_at": "2026-11-15T19:42:55.067Z",
   "updated_by": "afier",
   "parent": "4bcd3876-abf0-44e3-9959-c5e33d274829"
 }
