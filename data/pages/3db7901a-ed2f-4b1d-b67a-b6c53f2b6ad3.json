@@ -1,0 +1,63 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "In this deployment of AVAnnotate's model, Analia (a CPMR research assistant) has done virtual recordings with Dr. Osa Hidalgo de la Riva, where they watch silent digitized super 8s from Osa’s archival collection, and Dr. Hidalgo de la Riva narrates the film as it plays. The narrations are added as an audio overlay, and the transcription of these narrations plays alongside the films. This application of AVAnnotate is grounded in Chicana memory praxis, which surfaces new possibilities for archival/oral historical recovery projects. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ],
+      "align": "left"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The films with their added audio narration invokes the feeling of an \"auteur\" narrating over their foundational films, a move ("
+        },
+        {
+          "text": "movida",
+          "italic": true
+        },
+        {
+          "text": ") that challenges the hierarchies of cinema studies in its primary focus on narrative film and its determinations of the kinds of films that merit close analysis. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n\n\n\n"
+        }
+      ]
+    }
+  ],
+  "title": "Collaboration with AVAnnotate",
+  "parent": "4bcd3876-abf0-44e3-9959-c5e33d274829",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "collaboration-with-avannotate",
+  "created_at": "2026-11-15T19:34:38.966Z",
+  "created_by": "afier",
+  "updated_at": "2026-11-15T19:34:38.966Z",
+  "updated_by": "afier"
+}
