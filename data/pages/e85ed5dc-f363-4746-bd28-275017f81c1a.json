@@ -47,7 +47,7 @@
                   "text": "that facilitates inter-generational knowledge building. "
                 }
               ],
-              "align": "justify"
+              "align": "left"
             },
             {
               "type": "paragraph",
@@ -56,7 +56,7 @@
                   "text": ""
                 }
               ],
-              "align": "justify"
+              "align": "left"
             },
             {
               "type": "paragraph",
@@ -65,7 +65,7 @@
                   "text": "In 2023, CPMR collaborated with Royal Eagle Bear Productions, Dr. Hidalgo de la Riva’s production company. Through a two week research intensive in partnership with UC Santa Cruz, students worked as part of the collective to digitize Dr. Hidalgo de la Riva's materials, including photographs, artwork, poetry, and documents. Since that time, the CPMR project has continued to digitize materials from the mujeres de la Riva archive, including a substantial collection of photographs and documents from Osa Hidalgo de la Riva’s aunt, educator Celia de la Riva Rubio. Most recently, the CPMR project has partnered with AVAnnotate to digitize and curate a collection of home movies documenting the mujeres de la Riva from the 1960s to the 1980s."
                 }
               ],
-              "align": "justify"
+              "align": "left"
             },
             {
               "type": "paragraph",
@@ -90,12 +90,54 @@
           "type": "column",
           "children": [
             {
+              "type": "image",
+              "url": "https://github.com/afier/mujeresdelariva/blob/main/data/IMG_4891.jpg?raw=true",
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "scale": 79,
+              "align": "center"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Figure 1. CPMR field school, 2023",
+                  "italic": true
+                }
+              ],
+              "align": "center"
+            },
+            {
               "type": "paragraph",
               "children": [
                 {
                   "text": ""
                 }
               ]
+            },
+            {
+              "type": "image",
+              "url": "https://github.com/afier/mujeresdelariva/blob/main/data/IMG_5355.jpg?raw=true",
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "scale": 80,
+              "align": "center"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Figure 2. Celia de la Riva Rubio Collection, 2026",
+                  "italic": true
+                }
+              ],
+              "align": "center"
             }
           ]
         }
@@ -119,6 +161,6 @@
   "slug": "archival-collection",
   "created_at": "2026-11-15T19:05:07.763Z",
   "created_by": "afier",
-  "updated_at": "2026-11-15T19:05:07.763Z",
+  "updated_at": "2026-11-16T18:41:12.010Z",
   "updated_by": "afier"
 }
