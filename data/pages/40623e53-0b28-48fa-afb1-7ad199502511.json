@@ -196,7 +196,28 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "Since the 1970s, Dr. Hidalgo de la Riva has produced educational and experimental films that have been screened both nationally and internationally. Her film “Mujeria I: The Olmeca Rap” premiered at the Kabuki Theater in San Francisco; “Mujeria II: Primitive and Proud” debuted at the Roxie Cinema, San Francisco. Both were later distributed by Women Make Movies, New York. Her film “Two Spirits: Native Lesbians and Gay Men” is distributed by Third World Newsreel, New York.  In 1998,  Dr. Eagle Bear produced “Zone-4: A Prison Poem,” which explores the resistance that women cultivate within the prison industrial complex. Also worth noting is her film, “Me and Mr. Mauri,” an archival project documenting the lives of Latine and Native American friends with AIDS."
+                  "text": "Since the 1970s, Dr. Hidalgo de la Riva has produced "
+                },
+                {
+                  "text": "educational and experimental films",
+                  "link": "https://afier.github.io/mujeresdelariva/pages/filmography/"
+                },
+                {
+                  "text": " that have been screened both nationally and internationally. Her film “Mujería"
+                },
+                {
+                  "italic": true,
+                  "text": " "
+                },
+                {
+                  "text": "I: The Olmeca Rap” premiered at the Kabuki Theater in San Francisco; \"Mujería"
+                },
+                {
+                  "italic": true,
+                  "text": " "
+                },
+                {
+                  "text": "II: Primitive and Proud” debuted at the Roxie Cinema, San Francisco. Both were later distributed by Women Make Movies, New York. Her film “Two Spirits: Native Lesbians and Gay Men” is distributed by Third World Newsreel, New York.  In 1998,  Dr. Eagle Bear produced “Zone-4: A Prison Poem,” which explores the resistance that women cultivate within the prison industrial complex. Also worth noting is her film, “Me and Mr. Mauri,” an archival project documenting the lives of Latine and Native American friends with AIDS."
                 }
               ]
             },
@@ -436,7 +457,7 @@
   "slug": "dr-osa-hidalgo-de-la-riva",
   "created_at": "2026-07-08T19:05:25.647Z",
   "created_by": "afier",
-  "updated_at": "2026-11-16T18:43:53.368Z",
+  "updated_at": "2026-11-16T18:51:15.833Z",
   "updated_by": "afier",
   "parent": "4bcd3876-abf0-44e3-9959-c5e33d274829"
 }
