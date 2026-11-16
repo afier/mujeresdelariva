@@ -12,7 +12,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "In this deployment of AVAnnotate's model, Analia (a CPMR research assistant) has done virtual recordings with Dr. Osa Hidalgo de la Riva, where they watch silent digitized super 8s from Osa’s archival collection, and Dr. Hidalgo de la Riva narrates the film as it plays. The narrations are added as an audio overlay, and the transcription of these narrations plays alongside the films. This application of AVAnnotate is grounded in Chicana memory praxis, which surfaces new possibilities for archival/oral historical recovery projects. "
+          "text": "In this deployment of AVAnnotate's model, Analia (a CPMR research assistant) has done virtual recordings with Dr. Osa Hidalgo de la Riva, where they watch silent digitized Super 8s from Osa’s archival collection, and Dr. Hidalgo de la Riva narrates the film as it plays. The narrations are added as an audio overlay, and the transcription of these narrations plays alongside the films. This application of AVAnnotate is grounded in Chicana memory praxis, which surfaces new possibilities for archival/oral historical recovery projects. "
         }
       ]
     },
@@ -58,6 +58,6 @@
   "slug": "collaboration-with-avannotate",
   "created_at": "2026-11-15T19:34:38.966Z",
   "created_by": "afier",
-  "updated_at": "2026-11-15T19:34:38.966Z",
+  "updated_at": "2026-11-16T23:29:47.488Z",
   "updated_by": "afier"
 }
