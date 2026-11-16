@@ -4,8 +4,17 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "",
-          "bold": true
+          "bold": true,
+          "textSize": "heading-one",
+          "text": "Mujeres de la Riva "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -14,14 +23,6 @@
       "children": [
         {
           "text": "A collection of digitized Super 8 footage taken by Dr. Osa Hidalgo de la Riva documenting the life of the Mujeres de la Riva."
-        }
-      ]
-    },
-    {
-      "type": "horizontal-separator",
-      "children": [
-        {
-          "text": ""
         }
       ]
     },
@@ -83,7 +84,7 @@
   "created_at": "2026-07-08T17:29:51.078Z",
   "created_by": "afier",
   "title": "Mujeres de la Riva",
-  "updated_at": "2026-08-30T17:58:01.782Z",
+  "updated_at": "2026-11-16T23:28:18.839Z",
   "updated_by": "afier",
   "autogenerate": {
     "enabled": false,
