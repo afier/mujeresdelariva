@@ -1,13 +1,44 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "5981164f-d2ab-4952-a4e9-cc29e8ff6eeb",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2026-11-23T19:23:11.677Z",
   "created_by": "afier",
   "title": "Home Movie IV",
   "slug": "home-movie-iv",
-  "updated_at": "2026-11-23T19:23:47.059Z",
+  "updated_at": "2026-11-23T19:24:08.899Z",
   "updated_by": "afier",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "5981164f-d2ab-4952-a4e9-cc29e8ff6eeb"
   },
