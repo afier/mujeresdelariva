@@ -1,0 +1,33 @@
+{
+  "audiovisual_files": {
+    "ae70d702-47be-40eb-94b2-8047c8087ba6": {
+      "label": "Home Movie IV",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://youtu.be/y3xH09Wrm_8",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "Home Movie IV",
+  "av_file_order": [
+    "ae70d702-47be-40eb-94b2-8047c8087ba6"
+  ],
+  "created_at": "2026-11-23T19:23:08.256Z",
+  "created_by": "afier",
+  "updated_at": "2026-11-23T19:23:08.256Z",
+  "updated_by": "afier"
+}
